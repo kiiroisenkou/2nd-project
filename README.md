@@ -1,1 +1,2 @@
-# 2nd-project
+# Snake water game
+
